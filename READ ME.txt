@@ -1,0 +1,6 @@
+pip install flask
+
+pip install -U scikit-learn
+
+Open Terminal in Project folder and run
+python app.py
